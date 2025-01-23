@@ -1,0 +1,4287 @@
+fileFormatVersion: 2
+guid: d3d49d5ca31784b43b47b65a14924df7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4877688082283246358
+    second: space_whales_0
+  - first:
+      213: 4962719405728112048
+    second: space_whales_1
+  - first:
+      213: 5479741760191218254
+    second: space_whales_2
+  - first:
+      213: 6296138695091414717
+    second: space_whales_3
+  - first:
+      213: 7108030536991893538
+    second: space_whales_4
+  - first:
+      213: 2876097854377141100
+    second: space_whales_5
+  - first:
+      213: -5173850543978581330
+    second: space_whales_6
+  - first:
+      213: 7892320921832563036
+    second: space_whales_7
+  - first:
+      213: 4572806318028743247
+    second: space_whales_8
+  - first:
+      213: -4667674142675789404
+    second: space_whales_9
+  - first:
+      213: 1698354331835871627
+    second: space_whales_10
+  - first:
+      213: 6996644817946776472
+    second: space_whales_11
+  - first:
+      213: 6016517329278095742
+    second: space_whales_12
+  - first:
+      213: 8399701546496968335
+    second: space_whales_13
+  - first:
+      213: 7923397087235594108
+    second: space_whales_14
+  - first:
+      213: 1016295198734517268
+    second: space_whales_15
+  - first:
+      213: -8238732516403371858
+    second: space_whales_16
+  - first:
+      213: -7310904419644883598
+    second: space_whales_17
+  - first:
+      213: -5395173927482832935
+    second: space_whales_18
+  - first:
+      213: -2841215737918726725
+    second: space_whales_19
+  - first:
+      213: -375213166686924343
+    second: space_whales_20
+  - first:
+      213: 5967780605479225353
+    second: space_whales_21
+  - first:
+      213: 7689776274753364107
+    second: space_whales_22
+  - first:
+      213: 2757732489536989424
+    second: space_whales_23
+  - first:
+      213: -235943454352821897
+    second: space_whales_24
+  - first:
+      213: -2465393935456826288
+    second: space_whales_25
+  - first:
+      213: 4681372378651220077
+    second: space_whales_26
+  - first:
+      213: 3549858397580676548
+    second: space_whales_27
+  - first:
+      213: -8800389717705550181
+    second: space_whales_28
+  - first:
+      213: 5547184443018987798
+    second: space_whales_29
+  - first:
+      213: 2691885855017865953
+    second: space_whales_30
+  - first:
+      213: -2606598368998650120
+    second: space_whales_31
+  - first:
+      213: 8921368736473164181
+    second: space_whales_32
+  - first:
+      213: 7439864414850457030
+    second: space_whales_33
+  - first:
+      213: -3016456482120385710
+    second: space_whales_34
+  - first:
+      213: 7589125266920403577
+    second: space_whales_35
+  - first:
+      213: -901201737196675590
+    second: space_whales_36
+  - first:
+      213: -6908492045305257254
+    second: space_whales_37
+  - first:
+      213: 223560157207791503
+    second: space_whales_38
+  - first:
+      213: 7739501858471062465
+    second: space_whales_39
+  - first:
+      213: 6559171314264081878
+    second: space_whales_40
+  - first:
+      213: 1162620265113408032
+    second: space_whales_41
+  - first:
+      213: 3925791965236644722
+    second: space_whales_42
+  - first:
+      213: 102230495659280735
+    second: space_whales_43
+  - first:
+      213: 3891113905871361868
+    second: space_whales_44
+  - first:
+      213: -1946560478698107967
+    second: space_whales_45
+  - first:
+      213: 1679241692583198139
+    second: space_whales_46
+  - first:
+      213: 7133073429769028884
+    second: space_whales_47
+  - first:
+      213: -3706207082878214375
+    second: space_whales_48
+  - first:
+      213: -5055706199086948333
+    second: space_whales_49
+  - first:
+      213: -6018254008765376939
+    second: space_whales_50
+  - first:
+      213: -1211854936599715755
+    second: space_whales_51
+  - first:
+      213: -124663020407966355
+    second: space_whales_52
+  - first:
+      213: 304650915946654047
+    second: space_whales_53
+  - first:
+      213: -2240344404310907543
+    second: space_whales_54
+  - first:
+      213: 7813913497796549734
+    second: space_whales_55
+  - first:
+      213: -6911231032133456508
+    second: space_whales_56
+  - first:
+      213: -8063151593872670226
+    second: space_whales_57
+  - first:
+      213: 6232175246310486978
+    second: space_whales_58
+  - first:
+      213: -5184821660838300299
+    second: space_whales_59
+  - first:
+      213: 8796878016238952398
+    second: space_whales_60
+  - first:
+      213: -3335045195562221412
+    second: space_whales_61
+  - first:
+      213: 8991866530709820234
+    second: space_whales_62
+  - first:
+      213: -1814687586716622567
+    second: space_whales_63
+  - first:
+      213: -3703868207241651068
+    second: space_whales_64
+  - first:
+      213: 6993638689061532562
+    second: space_whales_65
+  - first:
+      213: -3108620017772373406
+    second: space_whales_66
+  - first:
+      213: 3203419731488594402
+    second: space_whales_67
+  - first:
+      213: 7386794643035943568
+    second: space_whales_68
+  - first:
+      213: 7780974603404890134
+    second: space_whales_69
+  - first:
+      213: 7285621777011202538
+    second: space_whales_70
+  - first:
+      213: 5030149834027416083
+    second: space_whales_71
+  - first:
+      213: -7705009611268671595
+    second: space_whales_72
+  - first:
+      213: -6108727378060307336
+    second: space_whales_73
+  - first:
+      213: -6069418782154514816
+    second: space_whales_74
+  - first:
+      213: -9140015782711240630
+    second: space_whales_75
+  - first:
+      213: -6005265862714038937
+    second: space_whales_76
+  - first:
+      213: -3054086200018146089
+    second: space_whales_77
+  - first:
+      213: -1038315597952843110
+    second: space_whales_78
+  - first:
+      213: -6893267137371842691
+    second: space_whales_79
+  - first:
+      213: 4741812921162756301
+    second: space_whales_80
+  - first:
+      213: 2271235559618495360
+    second: space_whales_81
+  - first:
+      213: -7287070608559468525
+    second: space_whales_82
+  - first:
+      213: -6325496069095638208
+    second: space_whales_83
+  - first:
+      213: -6228920494600314055
+    second: space_whales_84
+  - first:
+      213: -6154233817815977405
+    second: space_whales_85
+  - first:
+      213: 2862553669061179401
+    second: space_whales_86
+  - first:
+      213: -1748406604507203218
+    second: space_whales_87
+  - first:
+      213: -9153982711490731763
+    second: space_whales_88
+  - first:
+      213: -4802520098488448770
+    second: space_whales_89
+  - first:
+      213: -1469646105112679347
+    second: space_whales_90
+  - first:
+      213: -3808038797747806155
+    second: space_whales_91
+  - first:
+      213: -4114167067054017040
+    second: space_whales_92
+  - first:
+      213: 2540631375799129482
+    second: space_whales_93
+  - first:
+      213: 5287539367996139721
+    second: space_whales_94
+  - first:
+      213: 3631238875294622191
+    second: space_whales_95
+  - first:
+      213: 3241307569227635915
+    second: space_whales_96
+  - first:
+      213: 7018071661226217106
+    second: space_whales_97
+  - first:
+      213: -4224891044311116402
+    second: space_whales_98
+  - first:
+      213: -2502201658138814029
+    second: space_whales_99
+  - first:
+      213: -2305831750409560328
+    second: space_whales_100
+  - first:
+      213: -3426680714718931873
+    second: space_whales_101
+  - first:
+      213: -3482030050862910907
+    second: space_whales_102
+  - first:
+      213: -2013340562457111361
+    second: space_whales_103
+  - first:
+      213: -4424913472138033949
+    second: space_whales_104
+  - first:
+      213: 8303343140814786392
+    second: space_whales_105
+  - first:
+      213: 6610446255452419833
+    second: space_whales_106
+  - first:
+      213: -5796888240582760916
+    second: space_whales_107
+  - first:
+      213: -1394434427766690352
+    second: space_whales_108
+  - first:
+      213: -2131419443284324044
+    second: space_whales_109
+  - first:
+      213: -4861293123771861230
+    second: space_whales_110
+  - first:
+      213: -7062493841540067692
+    second: space_whales_111
+  - first:
+      213: -288717436786974088
+    second: space_whales_112
+  - first:
+      213: 703493586531127776
+    second: space_whales_113
+  - first:
+      213: -2224184248986485054
+    second: space_whales_114
+  - first:
+      213: 7108917849883732831
+    second: space_whales_115
+  - first:
+      213: 7045622495641460027
+    second: space_whales_116
+  - first:
+      213: -6520795892259894665
+    second: space_whales_117
+  - first:
+      213: -6405133082431823043
+    second: space_whales_118
+  - first:
+      213: -5184760454329208424
+    second: space_whales_119
+  - first:
+      213: 7152537932500686148
+    second: space_whales_120
+  - first:
+      213: 9084431417473722666
+    second: space_whales_121
+  - first:
+      213: 3797355908477293721
+    second: space_whales_122
+  - first:
+      213: -759407555764369017
+    second: space_whales_123
+  - first:
+      213: 5772558274390238041
+    second: space_whales_124
+  - first:
+      213: -7229675902586828821
+    second: space_whales_125
+  - first:
+      213: 3637171004131874432
+    second: space_whales_126
+  - first:
+      213: 3379067818122752360
+    second: space_whales_127
+  - first:
+      213: 8332237063664641946
+    second: space_whales_128
+  - first:
+      213: -8205016026883585904
+    second: space_whales_129
+  - first:
+      213: -3479119878286156293
+    second: space_whales_130
+  - first:
+      213: 6165165461092921906
+    second: space_whales_131
+  - first:
+      213: 8077771624035520809
+    second: space_whales_132
+  - first:
+      213: 8776014153116447083
+    second: space_whales_133
+  - first:
+      213: -2042186508277743089
+    second: space_whales_134
+  - first:
+      213: -5580607651079184879
+    second: space_whales_135
+  - first:
+      213: -7052811065284952983
+    second: space_whales_136
+  - first:
+      213: 5775196381814416469
+    second: space_whales_137
+  - first:
+      213: -8833942709740267488
+    second: space_whales_138
+  - first:
+      213: 2421758443194948903
+    second: space_whales_139
+  - first:
+      213: 31162408567291349
+    second: space_whales_140
+  - first:
+      213: 7896587906357535621
+    second: space_whales_141
+  - first:
+      213: -254499990298654502
+    second: space_whales_142
+  - first:
+      213: -8095356522254986998
+    second: space_whales_143
+  - first:
+      213: -1640159673169136519
+    second: space_whales_144
+  - first:
+      213: 3846936524254788102
+    second: space_whales_145
+  - first:
+      213: 5759317511255287786
+    second: space_whales_146
+  - first:
+      213: 1718441800586478767
+    second: space_whales_147
+  - first:
+      213: -4645274206353835656
+    second: space_whales_148
+  - first:
+      213: -490915999545266405
+    second: space_whales_149
+  - first:
+      213: -522242416488205826
+    second: space_whales_150
+  - first:
+      213: -4449014458358740311
+    second: space_whales_151
+  - first:
+      213: 8161737919033193981
+    second: space_whales_152
+  - first:
+      213: 6213400062738451299
+    second: space_whales_153
+  - first:
+      213: -5291192649011308822
+    second: space_whales_154
+  - first:
+      213: -6438697923629134061
+    second: space_whales_155
+  - first:
+      213: 3198279048316965201
+    second: space_whales_156
+  - first:
+      213: -8627440881544621088
+    second: space_whales_157
+  - first:
+      213: -5357937921521310957
+    second: space_whales_158
+  - first:
+      213: -3775824180806295315
+    second: space_whales_159
+  - first:
+      213: 8856649722631863776
+    second: space_whales_160
+  - first:
+      213: 4466883284812032427
+    second: space_whales_161
+  - first:
+      213: -1575483086935723107
+    second: space_whales_162
+  - first:
+      213: -3787998830788090449
+    second: space_whales_163
+  - first:
+      213: 3485902692629402941
+    second: space_whales_164
+  - first:
+      213: -1323634557186428988
+    second: space_whales_165
+  - first:
+      213: 6836303375296877799
+    second: space_whales_166
+  - first:
+      213: 8985910346140319692
+    second: space_whales_167
+  - first:
+      213: 3285403214016260568
+    second: space_whales_168
+  - first:
+      213: -1908260280360270961
+    second: space_whales_169
+  - first:
+      213: 1049090690515850259
+    second: space_whales_170
+  - first:
+      213: 6352293328712464567
+    second: space_whales_171
+  - first:
+      213: 6107409695853477265
+    second: space_whales_172
+  - first:
+      213: 7672301183993576987
+    second: space_whales_173
+  - first:
+      213: -1504294979900813332
+    second: space_whales_174
+  - first:
+      213: 2142310922832630876
+    second: space_whales_175
+  - first:
+      213: -4517032194001046131
+    second: space_whales_176
+  - first:
+      213: 5542318044853684437
+    second: space_whales_177
+  - first:
+      213: 8811674814011177858
+    second: space_whales_178
+  - first:
+      213: -1830900105894092902
+    second: space_whales_179
+  - first:
+      213: 629166126153236472
+    second: space_whales_180
+  - first:
+      213: 2542465438802320971
+    second: space_whales_181
+  - first:
+      213: 2254421387874589881
+    second: space_whales_182
+  - first:
+      213: 2461352360691294980
+    second: space_whales_183
+  - first:
+      213: -2643327341667674552
+    second: space_whales_184
+  - first:
+      213: 3589312305533606997
+    second: space_whales_185
+  - first:
+      213: 7584446691604357619
+    second: space_whales_186
+  - first:
+      213: -2076433734330623360
+    second: space_whales_187
+  - first:
+      213: 7196582441030524321
+    second: space_whales_188
+  - first:
+      213: -6088200096326433498
+    second: space_whales_189
+  - first:
+      213: 5402199005292905262
+    second: space_whales_190
+  - first:
+      213: -7402141614450513580
+    second: space_whales_191
+  - first:
+      213: -7713293743407266776
+    second: space_whales_192
+  - first:
+      213: -8152113081142130804
+    second: space_whales_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_whales_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61336adb77701b340800000000000000
+      internalID: 4877688082283246358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9c52810f1fd440800000000000000
+      internalID: 4962719405728112048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4242151914fb0c40800000000000000
+      internalID: 5479741760191218254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6e389e8c0606750800000000000000
+      internalID: 6296138695091414717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e70a0d1cc4a260800000000000000
+      internalID: 7108030536991893538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63a965a2c3f9e720800000000000000
+      internalID: 2876097854377141100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_6
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2f13da75ac238b0800000000000000
+      internalID: -5173850543978581330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_7
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51a6372018278d60800000000000000
+      internalID: 7892320921832563036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42e3c45e1fd57f30800000000000000
+      internalID: 4572806318028743247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_9
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9988ef817193fb0800000000000000
+      internalID: -4667674142675789404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_10
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b2db3444c19710800000000000000
+      internalID: 1698354331835871627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_11
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939b416463191160800000000000000
+      internalID: 6996644817946776472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_12
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e715a9452a6fe7350800000000000000
+      internalID: 6016517329278095742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_13
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8640429d0cb19470800000000000000
+      internalID: 8399701546496968335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_14
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77da0fbbaf85fd60800000000000000
+      internalID: 7923397087235594108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_15
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4148183491b9a1e00800000000000000
+      internalID: 1016295198734517268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_16
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea021505d642aad80800000000000000
+      internalID: -8238732516403371858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_17
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dbb384a237a8a90800000000000000
+      internalID: -7310904419644883598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_18
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7cfe6d5ed7025b0800000000000000
+      internalID: -5395173927482832935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_19
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdda1bf659f198d0800000000000000
+      internalID: -2841215737918726725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_20
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c19394ec99facaf0800000000000000
+      internalID: -375213166686924343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_21
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080e0f87d0d1d250800000000000000
+      internalID: 5967780605479225353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_22
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a6ea97c297ba60800000000000000
+      internalID: 7689776274753364107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_23
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e760961f654620800000000000000
+      internalID: 2757732489536989424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_24
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771b838ada2c9bcf0800000000000000
+      internalID: -235943454352821897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_25
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c81b5274929cdd0800000000000000
+      internalID: -2465393935456826288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_26
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d4da106397f040800000000000000
+      internalID: 4681372378651220077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_27
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdcbb69761a34130800000000000000
+      internalID: 3549858397580676548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_28
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96192f9d2cbed580800000000000000
+      internalID: -8800389717705550181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_29
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61948b55cde8bfc40800000000000000
+      internalID: 5547184443018987798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_30
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21d344cef7b5520800000000000000
+      internalID: 2691885855017865953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_31
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe09bff79083dbd0800000000000000
+      internalID: -2606598368998650120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_32
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59922cf29911fcb70800000000000000
+      internalID: 8921368736473164181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_33
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd1b386445bf3760800000000000000
+      internalID: 7439864414850457030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_34
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3ac6bfc46326d0800000000000000
+      internalID: -3016456482120385710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_35
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9727bbaa83df15960800000000000000
+      internalID: 7589125266920403577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_36
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd5d677bc94e73f0800000000000000
+      internalID: -901201737196675590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_37
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2e7f9661b1020a0800000000000000
+      internalID: -6908492045305257254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_38
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 855
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f870d4c47ce3a1300800000000000000
+      internalID: 223560157207791503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cba4a44feb386b60800000000000000
+      internalID: 7739501858471062465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d584afee8bd60b50800000000000000
+      internalID: 6559171314264081878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02251c6a8f4722010800000000000000
+      internalID: 1162620265113408032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_42
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b430e1ef63b7630800000000000000
+      internalID: 3925791965236644722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_43
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59cbfa18123b6100800000000000000
+      internalID: 102230495659280735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_44
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479b0c3b73000630800000000000000
+      internalID: 3891113905871361868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_45
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb8265de8d6cf4e0800000000000000
+      internalID: -1946560478698107967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_46
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd72722c6ddd4710800000000000000
+      internalID: 1679241692583198139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4150922ed74cdf260800000000000000
+      internalID: 7133073429769028884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_48
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fd1016b48e09cc0800000000000000
+      internalID: -3706207082878214375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_49
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310aeaa8ff586d9b0800000000000000
+      internalID: -5055706199086948333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_50
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55618777dddda7ca0800000000000000
+      internalID: -6018254008765376939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_51
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550aba81b50ae2fe0800000000000000
+      internalID: -1211854936599715755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_52
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b4f7b4ab154ef0800000000000000
+      internalID: -124663020407966355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_53
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596f79d4665a3400800000000000000
+      internalID: 304650915946654047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_54
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965a38652a2b8e0e0800000000000000
+      internalID: -2240344404310907543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_55
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1bc52de8907c60800000000000000
+      internalID: 7813913497796549734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_56
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d67095eff5610a0800000000000000
+      internalID: -6911231032133456508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_57
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee14815885ee91090800000000000000
+      internalID: -8063151593872670226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_58
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b156fd522d7650800000000000000
+      internalID: 6232175246310486978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_59
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5757bf97b20db08b0800000000000000
+      internalID: -5184821660838300299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_60
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf9d5aa2f9c41a70800000000000000
+      internalID: 8796878016238952398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_61
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9004a0801a87b1d0800000000000000
+      internalID: -3335045195562221412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_62
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43deaef7f689cc70800000000000000
+      internalID: 8991866530709820234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_63
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911e177214fe0d6e0800000000000000
+      internalID: -1814687586716622567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_64
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c9f7c4d77399cc0800000000000000
+      internalID: -3703868207241651068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_65
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f0f475556e0160800000000000000
+      internalID: 6993638689061532562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_66
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a52036096fbd4d0800000000000000
+      internalID: -3108620017772373406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_67
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9dad9f545d47c20800000000000000
+      internalID: 3203419731488594402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_68
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0927ae6479a238660800000000000000
+      internalID: 7386794643035943568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_69
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d84a2d239bfb60800000000000000
+      internalID: 7780974603404890134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_70
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95a92c76abb1560800000000000000
+      internalID: 7285621777011202538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_71
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab1388f9eaec540800000000000000
+      internalID: 5030149834027416083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_72
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5973c59d49e421590800000000000000
+      internalID: -7705009611268671595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_73
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8741309a0d0793ba0800000000000000
+      internalID: -6108727378060307336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_74
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e989856c715cba0800000000000000
+      internalID: -6069418782154514816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_75
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48580e4214282180800000000000000
+      internalID: -9140015782711240630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_76
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765662fd38209aca0800000000000000
+      internalID: -6005265862714038937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_77
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 570
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcee7648c4bd95d0800000000000000
+      internalID: -3054086200018146089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92064307792791f0800000000000000
+      internalID: -1038315597952843110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_79
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77d3178f023650a0800000000000000
+      internalID: -6893267137371842691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_80
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc073458abd4ec140800000000000000
+      internalID: 4741812921162756301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_81
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083cb4c35bc058f10800000000000000
+      internalID: 2271235559618495360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_82
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109f9bd3ef1fda90800000000000000
+      internalID: -7287070608559468525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_83
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bbc6dc6d25738a0800000000000000
+      internalID: -6325496069095638208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_84
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a239ffcd6e89a0800000000000000
+      internalID: -6228920494600314055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_85
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342f16003f4c79aa0800000000000000
+      internalID: -6154233817815977405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_86
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908f1e24565d9b720800000000000000
+      internalID: 2862553669061179401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_87
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b667e4796cb7e0800000000000000
+      internalID: -1748406604507203218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_88
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d012789493586f080800000000000000
+      internalID: -9153982711490731763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_89
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef80cee4a650a5db0800000000000000
+      internalID: -4802520098488448770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_90
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce83767a4ca9be0800000000000000
+      internalID: -1469646105112679347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_91
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302659a3e0272bc0800000000000000
+      internalID: -3808038797747806155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_92
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f572ada9da87e6c0800000000000000
+      internalID: -4114167067054017040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_93
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8518b386c2224320800000000000000
+      internalID: 2540631375799129482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_94
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8ad456a0d116940800000000000000
+      internalID: 5287539367996139721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_95
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe166889480c46230800000000000000
+      internalID: 3631238875294622191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_96
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc199f9f007bfc20800000000000000
+      internalID: 3241307569227635915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_97
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ecf971ef2356160800000000000000
+      internalID: 7018071661226217106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_98
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855b19cafb2e55c0800000000000000
+      internalID: -4224891044311116402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_99
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b91e3269d4664dd0800000000000000
+      internalID: -2502201658138814029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_100
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe55056d3a0000e0800000000000000
+      internalID: -2305831750409560328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_101
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541f789b0cf170d0800000000000000
+      internalID: -3426680714718931873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_102
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b4190e185dafc0800000000000000
+      internalID: -3482030050862910907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_103
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4dbd2fc6d2f04e0800000000000000
+      internalID: -2013340562457111361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_104
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e44f5b24ac8792c0800000000000000
+      internalID: -4424913472138033949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_105
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f0174f7966b3370800000000000000
+      internalID: 8303343140814786392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_106
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f67d0f78d50dbb50800000000000000
+      internalID: 6610446255452419833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_107
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26ec61cbd05d8fa0800000000000000
+      internalID: -5796888240582760916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_108
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2466a649f5ace0800000000000000
+      internalID: -1394434427766690352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_109
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4315daf1f4dab62e0800000000000000
+      internalID: -2131419443284324044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_110
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217778009a7398cb0800000000000000
+      internalID: -4861293123771861230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_111
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ece92154bfcfd90800000000000000
+      internalID: -7062493841540067692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_112
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e9db55054efbf0800000000000000
+      internalID: -288717436786974088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_113
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e114fe80bf43c900800000000000000
+      internalID: 703493586531127776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_114
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3424b53c1221e0800000000000000
+      internalID: -2224184248986485054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_115
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5be0cbae13f7a260800000000000000
+      internalID: 7108917849883732831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_116
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 285
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd53a945417c160800000000000000
+      internalID: 7045622495641460027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac5054faa7185a0800000000000000
+      internalID: -6520795892259894665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_118
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d336c8ab5656c17a0800000000000000
+      internalID: -6405133082431823043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_119
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f63a36d70c08b0800000000000000
+      internalID: -5184760454329208424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_120
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d5359a5be24360800000000000000
+      internalID: 7152537932500686148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_121
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a296be82e32621e70800000000000000
+      internalID: 9084431417473722666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_122
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994158a541be2b430800000000000000
+      internalID: 3797355908477293721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_123
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789caeef9da0675f0800000000000000
+      internalID: -759407555764369017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_124
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953a54e8a2f3c1050800000000000000
+      internalID: 5772558274390238041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_125
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be74c1132180bab90800000000000000
+      internalID: -7229675902586828821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_126
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08691a8f1c3d97230800000000000000
+      internalID: 3637171004131874432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_127
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861392b074cd4ee20800000000000000
+      internalID: 3379067818122752360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_128
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97231c967d02a370800000000000000
+      internalID: 8332237063664641946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_129
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0988735456de12e80800000000000000
+      internalID: -8205016026883585904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_130
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdd0c367eea7bfc0800000000000000
+      internalID: -3479119878286156293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_131
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23273f982511f8550800000000000000
+      internalID: 6165165461092921906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_132
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211e538e720a1070800000000000000
+      internalID: 8077771624035520809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_133
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b617e4cff5aaac970800000000000000
+      internalID: 8776014153116447083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_134
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f028201d032b8a3e0800000000000000
+      internalID: -2042186508277743089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_135
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e199e98e2bd82b0800000000000000
+      internalID: -5580607651079184879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_136
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cfeb914b16f1e90800000000000000
+      internalID: -7052811065284952983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_137
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5546b2ec28e952050800000000000000
+      internalID: 5775196381814416469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_138
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02897c3e8e7876580800000000000000
+      internalID: -8833942709740267488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_139
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d107a1970db9120800000000000000
+      internalID: 2421758443194948903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_140
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddbff4ab06be6000800000000000000
+      internalID: 31162408567291349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_141
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5832618ecd0569d60800000000000000
+      internalID: 7896587906357535621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_142
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad888e27b95d77cf0800000000000000
+      internalID: -254499990298654502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_143
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0199d0522487af80800000000000000
+      internalID: -8095356522254986998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_144
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97435d9977bfc39e0800000000000000
+      internalID: -1640159673169136519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_145
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60abea90360136530800000000000000
+      internalID: 3846936524254788102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_146
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7ee0723c43def40800000000000000
+      internalID: 5759317511255287786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_147
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4c32386b129d710800000000000000
+      internalID: 1718441800586478767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_148
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879bef598bba88fb0800000000000000
+      internalID: -4645274206353835656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_149
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6c88df7aef29f0800000000000000
+      internalID: -490915999545266405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_150
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef134960a4f90c8f0800000000000000
+      internalID: -522242416488205826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_151
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa43f80cece142c0800000000000000
+      internalID: -4449014458358740311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_152
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df53fc50561544170800000000000000
+      internalID: 8161737919033193981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_153
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4ae2ef6e6a3650800000000000000
+      internalID: 6213400062738451299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_154
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d585d158e196b0800000000000000
+      internalID: -5291192649011308822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_whales_155
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 0
+        width: 420
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f4a062a5625a6a0800000000000000
+      internalID: -6438697923629134061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 929cc5ab956638246ae67ec4a770090a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      space_whales_0: 4877688082283246358
+      space_whales_1: 4962719405728112048
+      space_whales_10: 1698354331835871627
+      space_whales_100: -2305831750409560328
+      space_whales_101: -3426680714718931873
+      space_whales_102: -3482030050862910907
+      space_whales_103: -2013340562457111361
+      space_whales_104: -4424913472138033949
+      space_whales_105: 8303343140814786392
+      space_whales_106: 6610446255452419833
+      space_whales_107: -5796888240582760916
+      space_whales_108: -1394434427766690352
+      space_whales_109: -2131419443284324044
+      space_whales_11: 6996644817946776472
+      space_whales_110: -4861293123771861230
+      space_whales_111: -7062493841540067692
+      space_whales_112: -288717436786974088
+      space_whales_113: 703493586531127776
+      space_whales_114: -2224184248986485054
+      space_whales_115: 7108917849883732831
+      space_whales_116: 7045622495641460027
+      space_whales_117: -6520795892259894665
+      space_whales_118: -6405133082431823043
+      space_whales_119: -5184760454329208424
+      space_whales_12: 6016517329278095742
+      space_whales_120: 7152537932500686148
+      space_whales_121: 9084431417473722666
+      space_whales_122: 3797355908477293721
+      space_whales_123: -759407555764369017
+      space_whales_124: 5772558274390238041
+      space_whales_125: -7229675902586828821
+      space_whales_126: 3637171004131874432
+      space_whales_127: 3379067818122752360
+      space_whales_128: 8332237063664641946
+      space_whales_129: -8205016026883585904
+      space_whales_13: 8399701546496968335
+      space_whales_130: -3479119878286156293
+      space_whales_131: 6165165461092921906
+      space_whales_132: 8077771624035520809
+      space_whales_133: 8776014153116447083
+      space_whales_134: -2042186508277743089
+      space_whales_135: -5580607651079184879
+      space_whales_136: -7052811065284952983
+      space_whales_137: 5775196381814416469
+      space_whales_138: -8833942709740267488
+      space_whales_139: 2421758443194948903
+      space_whales_14: 7923397087235594108
+      space_whales_140: 31162408567291349
+      space_whales_141: 7896587906357535621
+      space_whales_142: -254499990298654502
+      space_whales_143: -8095356522254986998
+      space_whales_144: -1640159673169136519
+      space_whales_145: 3846936524254788102
+      space_whales_146: 5759317511255287786
+      space_whales_147: 1718441800586478767
+      space_whales_148: -4645274206353835656
+      space_whales_149: -490915999545266405
+      space_whales_15: 1016295198734517268
+      space_whales_150: -522242416488205826
+      space_whales_151: -4449014458358740311
+      space_whales_152: 8161737919033193981
+      space_whales_153: 6213400062738451299
+      space_whales_154: -5291192649011308822
+      space_whales_155: -6438697923629134061
+      space_whales_16: -8238732516403371858
+      space_whales_17: -7310904419644883598
+      space_whales_18: -5395173927482832935
+      space_whales_19: -2841215737918726725
+      space_whales_2: 5479741760191218254
+      space_whales_20: -375213166686924343
+      space_whales_21: 5967780605479225353
+      space_whales_22: 7689776274753364107
+      space_whales_23: 2757732489536989424
+      space_whales_24: -235943454352821897
+      space_whales_25: -2465393935456826288
+      space_whales_26: 4681372378651220077
+      space_whales_27: 3549858397580676548
+      space_whales_28: -8800389717705550181
+      space_whales_29: 5547184443018987798
+      space_whales_3: 6296138695091414717
+      space_whales_30: 2691885855017865953
+      space_whales_31: -2606598368998650120
+      space_whales_32: 8921368736473164181
+      space_whales_33: 7439864414850457030
+      space_whales_34: -3016456482120385710
+      space_whales_35: 7589125266920403577
+      space_whales_36: -901201737196675590
+      space_whales_37: -6908492045305257254
+      space_whales_38: 223560157207791503
+      space_whales_39: 7739501858471062465
+      space_whales_4: 7108030536991893538
+      space_whales_40: 6559171314264081878
+      space_whales_41: 1162620265113408032
+      space_whales_42: 3925791965236644722
+      space_whales_43: 102230495659280735
+      space_whales_44: 3891113905871361868
+      space_whales_45: -1946560478698107967
+      space_whales_46: 1679241692583198139
+      space_whales_47: 7133073429769028884
+      space_whales_48: -3706207082878214375
+      space_whales_49: -5055706199086948333
+      space_whales_5: 2876097854377141100
+      space_whales_50: -6018254008765376939
+      space_whales_51: -1211854936599715755
+      space_whales_52: -124663020407966355
+      space_whales_53: 304650915946654047
+      space_whales_54: -2240344404310907543
+      space_whales_55: 7813913497796549734
+      space_whales_56: -6911231032133456508
+      space_whales_57: -8063151593872670226
+      space_whales_58: 6232175246310486978
+      space_whales_59: -5184821660838300299
+      space_whales_6: -5173850543978581330
+      space_whales_60: 8796878016238952398
+      space_whales_61: -3335045195562221412
+      space_whales_62: 8991866530709820234
+      space_whales_63: -1814687586716622567
+      space_whales_64: -3703868207241651068
+      space_whales_65: 6993638689061532562
+      space_whales_66: -3108620017772373406
+      space_whales_67: 3203419731488594402
+      space_whales_68: 7386794643035943568
+      space_whales_69: 7780974603404890134
+      space_whales_7: 7892320921832563036
+      space_whales_70: 7285621777011202538
+      space_whales_71: 5030149834027416083
+      space_whales_72: -7705009611268671595
+      space_whales_73: -6108727378060307336
+      space_whales_74: -6069418782154514816
+      space_whales_75: -9140015782711240630
+      space_whales_76: -6005265862714038937
+      space_whales_77: -3054086200018146089
+      space_whales_78: -1038315597952843110
+      space_whales_79: -6893267137371842691
+      space_whales_8: 4572806318028743247
+      space_whales_80: 4741812921162756301
+      space_whales_81: 2271235559618495360
+      space_whales_82: -7287070608559468525
+      space_whales_83: -6325496069095638208
+      space_whales_84: -6228920494600314055
+      space_whales_85: -6154233817815977405
+      space_whales_86: 2862553669061179401
+      space_whales_87: -1748406604507203218
+      space_whales_88: -9153982711490731763
+      space_whales_89: -4802520098488448770
+      space_whales_9: -4667674142675789404
+      space_whales_90: -1469646105112679347
+      space_whales_91: -3808038797747806155
+      space_whales_92: -4114167067054017040
+      space_whales_93: 2540631375799129482
+      space_whales_94: 5287539367996139721
+      space_whales_95: 3631238875294622191
+      space_whales_96: 3241307569227635915
+      space_whales_97: 7018071661226217106
+      space_whales_98: -4224891044311116402
+      space_whales_99: -2502201658138814029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
