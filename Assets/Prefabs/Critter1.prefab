@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &642622788787619178
+--- !u!1 &7001725775965650086
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,61 +8,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1537746553620177701}
-  - component: {fileID: 853156586015288288}
-  - component: {fileID: 2567135095431090462}
-  - component: {fileID: 3338315099918207780}
-  - component: {fileID: 5741266358125803679}
-  m_Layer: 8
-  m_Name: Asteroid
-  m_TagString: Obstacle
+  - component: {fileID: 1090154042292678488}
+  - component: {fileID: 7052448823830266247}
+  - component: {fileID: 8839137722908785039}
+  - component: {fileID: 5033106193193391151}
+  - component: {fileID: 2881191077829193396}
+  m_Layer: 9
+  m_Name: Critter1
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1537746553620177701
+--- !u!4 &1090154042292678488
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642622788787619178}
+  m_GameObject: {fileID: 7001725775965650086}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.6042473, y: 0.513582, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &853156586015288288
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642622788787619178}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bce434a9a26d354888e19a69f5c2c9d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  whiteMaterial: {fileID: 2100000, guid: 7340d027e7304d04595c7011c4b0e620, type: 2}
-  destroyEffect: {fileID: 539765987045839069, guid: cc5f04b98ee17394f92e4f651d530666, type: 3}
-  lives: 5
-  sprites:
-  - {fileID: -1508413030, guid: fe4ed8873fd79fc43b3c360331ad58bc, type: 3}
-  - {fileID: -298929065, guid: fe4ed8873fd79fc43b3c360331ad58bc, type: 3}
-  - {fileID: -95494211, guid: fe4ed8873fd79fc43b3c360331ad58bc, type: 3}
-  - {fileID: -1091278505, guid: fe4ed8873fd79fc43b3c360331ad58bc, type: 3}
-  - {fileID: -1382766413, guid: fe4ed8873fd79fc43b3c360331ad58bc, type: 3}
---- !u!212 &2567135095431090462
+--- !u!212 &7052448823830266247
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642622788787619178}
+  m_GameObject: {fileID: 7001725775965650086}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -97,54 +76,45 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 2006439231
-  m_SortingLayer: 2
+  m_SortingLayerID: 794398291
+  m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1508413030, guid: fe4ed8873fd79fc43b3c360331ad58bc, type: 3}
+  m_Sprite: {fileID: -336697590, guid: 8f97c74e8599adb4db05c89d3ff9ea2e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.5, y: 2.48}
+  m_Size: {x: 0.8, y: 0.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!50 &3338315099918207780
-Rigidbody2D:
-  serializedVersion: 5
+--- !u!114 &8839137722908785039
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642622788787619178}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0.3
-  m_AngularDamping: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!58 &5741266358125803679
+  m_GameObject: {fileID: 7001725775965650086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035022712cffed445b4212d057baa492, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -336697590, guid: 8f97c74e8599adb4db05c89d3ff9ea2e, type: 3}
+  - {fileID: 898648767, guid: 8f97c74e8599adb4db05c89d3ff9ea2e, type: 3}
+  - {fileID: -420672454, guid: 8f97c74e8599adb4db05c89d3ff9ea2e, type: 3}
+  - {fileID: -1317108632, guid: 8f97c74e8599adb4db05c89d3ff9ea2e, type: 3}
+  zappedEffect: {fileID: 515753523740422215, guid: abcb426a598f5ee47b5ef0f14239e999, type: 3}
+--- !u!58 &5033106193193391151
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642622788787619178}
+  m_GameObject: {fileID: 7001725775965650086}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -172,5 +142,32 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.00551188}
-  m_Radius: 1.1342484
+  m_Offset: {x: 0, y: 0.01396969}
+  m_Radius: 0.24284092
+--- !u!50 &2881191077829193396
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001725775965650086}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

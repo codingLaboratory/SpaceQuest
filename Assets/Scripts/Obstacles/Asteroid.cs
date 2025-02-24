@@ -9,6 +9,9 @@ public class Asteroid : MonoBehaviour
     private Material defaultMaterial;
     [SerializeField] private Material whiteMaterial;
 
+    [SerializeField] private GameObject destroyEffect;
+    [SerializeField] private int lives;
+
     [SerializeField] private Sprite[] sprites;
 
     void Start()
@@ -20,6 +23,8 @@ public class Asteroid : MonoBehaviour
         float pushX = Random.Range(-1f,0);
         float pushY = Random.Range(-1f,1f);
         rb.linearVelocity = new Vector2(pushX,pushY);
+        float randomScale = Random.Range(0.6f, 1f);
+        transform.localScale = new Vector2(randomScale, randomScale);
     }
     
     void Update()
@@ -36,6 +41,13 @@ public class Asteroid : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("Bullet")){
             spriteRenderer.material = whiteMaterial;
             StartCoroutine("ResetMaterial");
+            AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.hitRock);
+            lives--;
+            if (lives <= 0){
+                Instantiate(destroyEffect, transform.position, transform.rotation);
+                AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.boom2);
+                Destroy(gameObject);
+            }
         }
     }
 
