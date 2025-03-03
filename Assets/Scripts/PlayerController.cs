@@ -106,6 +106,8 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision){
         if (collision.gameObject.CompareTag("Obstacle")){
             TakeDamage(1);
+        } else if (collision.gameObject.CompareTag("Boss")){
+            TakeDamage(5);
         }
     }
 

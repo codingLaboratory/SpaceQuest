@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - Bullet
+  - Critter
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -16,9 +18,9 @@ TagManager:
   - Player
   - LevelBoundaries
   - Obstacle
-  - 
-  - 
-  - 
+  - Critter
+  - Bullet
+  - Boss
   - 
   - 
   - 

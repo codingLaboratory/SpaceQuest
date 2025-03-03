@@ -12,6 +12,7 @@ public class Critter1 : MonoBehaviour
     private float moveTimer;
     private float moveInterval;
     [SerializeField] private GameObject zappedEffect;
+    [SerializeField] private GameObject burnEffect;
 
     void Start()
     {
@@ -43,6 +44,10 @@ public class Critter1 : MonoBehaviour
 
         float moveX = (GameManager.Instance.worldSpeed * PlayerController.Instance.boost) * Time.deltaTime;
         transform.position += new Vector3(-moveX, 0);
+
+        if (transform.position.x < -11){
+            Destroy(gameObject);
+        }
     }
 
     private void GenerateRandomPosition(){
@@ -57,6 +62,12 @@ public class Critter1 : MonoBehaviour
             Instantiate(zappedEffect, transform.position, transform.rotation);
             Destroy(gameObject);
             AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.squished);
+            GameManager.Instance.critterCounter++;
+        } else if (collision.gameObject.CompareTag("Player")){
+            Instantiate(burnEffect, transform.position, transform.rotation);
+            Destroy(gameObject);
+            AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.burn);
+            GameManager.Instance.critterCounter++;
         }
     }
 }
