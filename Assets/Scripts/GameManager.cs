@@ -63,4 +63,8 @@ public class GameManager : MonoBehaviour
         yield return new WaitForSeconds(3f);
         SceneManager.LoadScene("GameOver");
     }
+
+    public void SetWorldSpeed(float speed){
+        worldSpeed = speed;
+    }
 }

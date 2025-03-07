@@ -14,9 +14,7 @@ public class PlayerController : MonoBehaviour
 
     private Vector2 playerDirection;
     [SerializeField] private float moveSpeed;
-    public float boost = 1f;
-    private float boostPower = 4f;
-    private bool boosting = false;
+    public bool boosting = false;
 
     [SerializeField] private float energy;
     [SerializeField] private float maxEnergy;
@@ -75,7 +73,7 @@ public class PlayerController : MonoBehaviour
         rb.linearVelocity = new Vector2(playerDirection.x * moveSpeed, playerDirection.y * moveSpeed);
 
         if (boosting){
-            if (energy >= 0.2f) energy -= 0.2f;
+            if (energy >= 0.5f) energy -= 0.5f;
             else {
                 ExitBoost();
             }
@@ -91,7 +89,7 @@ public class PlayerController : MonoBehaviour
         if (energy > 10){
             AudioManager.Instance.PlaySound(AudioManager.Instance.fire);
             animator.SetBool("boosting", true);
-            boost = boostPower;
+            GameManager.Instance.SetWorldSpeed(7f);
             boosting = true;
             engineEffect.Play();
         }
@@ -99,7 +97,7 @@ public class PlayerController : MonoBehaviour
 
     public void ExitBoost(){
         animator.SetBool("boosting", false);
-        boost = 1f;
+        GameManager.Instance.SetWorldSpeed(1f);
         boosting = false;
     }
 
@@ -118,7 +116,8 @@ public class PlayerController : MonoBehaviour
         spriteRenderer.material = whiteMaterial;
         StartCoroutine("ResetMaterial");
         if (health <= 0){
-            boost = 0f;
+            ExitBoost();
+            GameManager.Instance.SetWorldSpeed(0f);
             gameObject.SetActive(false);
             Instantiate(destroyEffect, transform.position, transform.rotation);
             GameManager.Instance.GameOver();

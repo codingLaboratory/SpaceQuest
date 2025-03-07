@@ -29,7 +29,7 @@ public class Asteroid : MonoBehaviour
     
     void Update()
     {
-        float moveX = (GameManager.Instance.worldSpeed * PlayerController.Instance.boost) * Time.deltaTime;
+        float moveX = GameManager.Instance.worldSpeed * Time.deltaTime;
         transform.position += new Vector3(-moveX, 0);
         if (transform.position.x < -11){
             Destroy(gameObject);
@@ -49,8 +49,8 @@ public class Asteroid : MonoBehaviour
         spriteRenderer.material = whiteMaterial;
         StartCoroutine("ResetMaterial");
         AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.hitRock);
-        lives--;
-        if (lives <= damage){
+        lives -= damage;
+        if (lives <= 0){
             Instantiate(destroyEffect, transform.position, transform.rotation);
             AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.boom2);
             Destroy(gameObject);

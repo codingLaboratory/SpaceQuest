@@ -21,10 +21,12 @@ public class Boss1 : MonoBehaviour
 
     void Update()
     {
+        float playerPosition = PlayerController.Instance.transform.position.x;
+
         if (switchTimer > 0){
             switchTimer -= Time.deltaTime;
         } else {
-            if (charging){
+            if (charging && transform.position.x > playerPosition){
                 EnterPatrolState();
             } else {
                 EnterChargeState();
@@ -33,9 +35,17 @@ public class Boss1 : MonoBehaviour
 
         if (transform.position.y > 3 || transform.position.y < -3){
             speedY *= -1;
+        } else if (transform.position.x < playerPosition){
+            EnterChargeState();
         }
 
-        float moveX = speedX * PlayerController.Instance.boost * Time.deltaTime;
+        bool boost = PlayerController.Instance.boosting;
+        float moveX;
+        if (boost && !charging){
+            moveX = GameManager.Instance.worldSpeed * Time.deltaTime * -0.5f;
+        } else {
+            moveX = speedX * Time.deltaTime;
+        }
         float moveY = speedY * Time.deltaTime;
 
         transform.position += new Vector3(moveX, moveY);
@@ -60,7 +70,7 @@ public class Boss1 : MonoBehaviour
         switchTimer = switchInterval;
         charging = true;
         animator.SetBool("charging", true);
-        AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.bossCharge);
+        if (!charging) AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.bossCharge);
     }
 
     public void TakeDamage(int damage){
