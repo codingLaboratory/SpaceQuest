@@ -8,7 +8,9 @@ public class Asteroid : MonoBehaviour
     private FlashWhite flashWhite;
 
     [SerializeField] private GameObject destroyEffect;
-    [SerializeField] private int lives;
+
+    private int lives;
+    private int damage;
 
     [SerializeField] private Sprite[] sprites;
 
@@ -24,14 +26,16 @@ public class Asteroid : MonoBehaviour
         rb.linearVelocity = new Vector2(pushX,pushY);
         float randomScale = Random.Range(0.6f, 1f);
         transform.localScale = new Vector2(randomScale, randomScale);
+
+        lives = 5;
+        damage = 1;
     }
     
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("Bullet")){
-            TakeDamage(1);
-        } else if (collision.gameObject.CompareTag("Boss")){
-            TakeDamage(10);
+        if (collision.gameObject.CompareTag("Player")){
+            PlayerController player = collision.gameObject.GetComponent<PlayerController>();
+            if (player) player.TakeDamage(damage);
         }
     }
 
