@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Boom : MonoBehaviour
+public class DestroyWhenAnimationFinished : MonoBehaviour
 {
     private Animator animator;
 
@@ -9,10 +9,4 @@ public class Boom : MonoBehaviour
         animator = GetComponent<Animator>();
         Destroy(gameObject, animator.GetCurrentAnimatorStateInfo(0).length);
     }
-
-    void Update(){
-        float moveX = GameManager.Instance.worldSpeed * Time.deltaTime;
-        transform.position += new Vector3(-moveX, 0);
-    }
-
 }

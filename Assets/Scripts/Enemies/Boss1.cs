@@ -17,6 +17,7 @@ public class Boss1 : MonoBehaviour
         lives = 100;
         animator = GetComponent<Animator>();
         EnterChargeState();
+        AudioManager.Instance.PlaySound(AudioManager.Instance.bossSpawn);
     }
 
     void Update()
@@ -64,13 +65,13 @@ public class Boss1 : MonoBehaviour
     }
 
     void EnterChargeState(){
-        speedX = -5f;
+        if (!charging) AudioManager.Instance.PlaySound(AudioManager.Instance.bossCharge);
+        speedX = -10f;
         speedY = 0;
-        switchInterval = Random.Range(2f, 2.5f);
+        switchInterval = Random.Range(0.6f, 1.3f);
         switchTimer = switchInterval;
         charging = true;
         animator.SetBool("charging", true);
-        if (!charging) AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.bossCharge);
     }
 
     public void TakeDamage(int damage){

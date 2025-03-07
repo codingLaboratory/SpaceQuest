@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8839137722908785039}
   - component: {fileID: 5033106193193391151}
   - component: {fileID: 2881191077829193396}
+  - component: {fileID: -2148679880940971068}
   m_Layer: 9
   m_Name: Critter1
   m_TagString: Critter
@@ -76,9 +77,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 794398291
-  m_SortingLayer: 3
-  m_SortingOrder: 0
+  m_SortingLayerID: 2006439231
+  m_SortingLayer: 2
+  m_SortingOrder: 3
   m_Sprite: {fileID: -336697590, guid: 8f97c74e8599adb4db05c89d3ff9ea2e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -172,3 +173,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-2148679880940971068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001725775965650086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca9f40461d16534eb5f8a66a2bf7917, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
