@@ -591,6 +591,21 @@ MonoBehaviour:
   - prefab: {fileID: 642622788787619178, guid: 92c1f73e2b7217e4ab8dcc3a703d7d66, type: 3}
     spawnTimer: 0
     spawnInterval: 1
+    objectsPerWave: 20
+    spawnedObjectCount: 0
+  - prefab: {fileID: 642622788787619178, guid: 92c1f73e2b7217e4ab8dcc3a703d7d66, type: 3}
+    spawnTimer: 0
+    spawnInterval: 0.6
+    objectsPerWave: 40
+    spawnedObjectCount: 0
+  - prefab: {fileID: 642622788787619178, guid: 92c1f73e2b7217e4ab8dcc3a703d7d66, type: 3}
+    spawnTimer: 0
+    spawnInterval: 0.4
+    objectsPerWave: 100
+    spawnedObjectCount: 0
+  - prefab: {fileID: 642622788787619178, guid: 92c1f73e2b7217e4ab8dcc3a703d7d66, type: 3}
+    spawnTimer: 0
+    spawnInterval: 2
     objectsPerWave: 10
     spawnedObjectCount: 0
   - prefab: {fileID: 3471200391665924210, guid: 1d69f2cd47222ff49882544508a79e4a, type: 3}
@@ -8592,7 +8607,12 @@ MonoBehaviour:
     spawnedObjectCount: 0
   - prefab: {fileID: 7001725775965650086, guid: 26efd7a4e68a891439cd3f38a7d9b519, type: 3}
     spawnTimer: 0
-    spawnInterval: 0.2
+    spawnInterval: 1.2
+    objectsPerWave: 20
+    spawnedObjectCount: 0
+  - prefab: {fileID: 7001725775965650086, guid: 26efd7a4e68a891439cd3f38a7d9b519, type: 3}
+    spawnTimer: 0
+    spawnInterval: 5
     objectsPerWave: 3
     spawnedObjectCount: 0
 --- !u!4 &1418158862
@@ -8770,7 +8790,7 @@ Transform:
   m_GameObject: {fileID: 1492453301}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11, y: 4, z: 0}
+  m_LocalPosition: {x: 15, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8989,7 +9009,7 @@ Transform:
   m_GameObject: {fileID: 1695597535}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11, y: -5, z: 0}
+  m_LocalPosition: {x: 15, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9390,7 +9410,7 @@ MonoBehaviour:
   boosting: 0
   energy: 0
   maxEnergy: 50
-  energyRegen: 0.1
+  energyRegen: 0.05
   health: 0
   maxHealth: 3
   destroyEffect: {fileID: 9097111536591570501, guid: 7b132f719f265554fb050e1af364b743, type: 3}
